@@ -12,7 +12,7 @@ public class MainHud : MonoBehaviour
 
     void Start()
     {
-       
+        Noes = 0;
     }
 
     void Update()
@@ -22,10 +22,11 @@ public class MainHud : MonoBehaviour
 
         if (Noes == 500 && SceneManager.GetActiveScene().name == "SampleScene 1")
         {
+            
             SceneManager.LoadScene(2);
         }
 
-        if(Noes == 1000 && SceneManager.GetActiveScene().name == "Final")
+        if(Noes == 500 && SceneManager.GetActiveScene().name == "Final")
         {
             SceneManager.LoadScene(5);
         }

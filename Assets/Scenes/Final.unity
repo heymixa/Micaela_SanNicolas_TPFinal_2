@@ -523,6 +523,18 @@ PrefabInstance:
       propertyPath: posJugador
       value: 
       objectReference: {fileID: 642908754}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Radius
+      value: 0.80234414
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0000000015415531
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5063243464358481707, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
       propertyPath: punch
       value: 
@@ -10678,10 +10690,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.4
+  m_Radius: 0.5759783
   m_Height: 2.02
   m_Direction: 1
-  m_Center: {x: 0, y: 0.96, z: 0}
+  m_Center: {x: 0, y: 0.96, z: 6.560512e-10}
 --- !u!4 &385045755 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 380820832988737380, guid: 544da402313852c42a793d2e4d061173, type: 3}
@@ -16014,6 +16026,14 @@ PrefabInstance:
       propertyPath: posJugador
       value: 
       objectReference: {fileID: 642908754}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Radius
+      value: 0.80234414
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0000000015415531
+      objectReference: {fileID: 0}
     - target: {fileID: 5063243464358481707, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
       propertyPath: punch
       value: 
@@ -28001,6 +28021,18 @@ PrefabInstance:
       propertyPath: posJugador
       value: 
       objectReference: {fileID: 642908754}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Radius
+      value: 0.80234414
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0000000015415531
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5063243464358481707, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
       propertyPath: punch
       value: 
@@ -29133,6 +29165,18 @@ PrefabInstance:
       propertyPath: posJugador
       value: 
       objectReference: {fileID: 642908754}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Radius
+      value: 0.80234414
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0000000015415531
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5063243464358481707, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
       propertyPath: punch
       value: 

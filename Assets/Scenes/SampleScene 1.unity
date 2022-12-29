@@ -218,6 +218,18 @@ PrefabInstance:
       propertyPath: punch
       value: 
       objectReference: {fileID: 1863122134}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Radius
+      value: 0.80234414
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0000000015415531
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5063243464358481707, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
       propertyPath: punch
       value: 
@@ -3626,6 +3638,18 @@ PrefabInstance:
       propertyPath: punch
       value: 
       objectReference: {fileID: 1863122134}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Radius
+      value: 0.80234414
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0000000015415531
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5063243464358481707, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
       propertyPath: punch
       value: 
@@ -5144,6 +5168,22 @@ PrefabInstance:
       propertyPath: posJugador
       value: 
       objectReference: {fileID: 1381116744}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Radius
+      value: 0.80234414
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_Center.z
+      value: 0.0000000015415531
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063243464325108628, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5063243464358481707, guid: 56df50ba0d0171845a2b44e16d2b9778, type: 3}
       propertyPath: punch
       value: 
